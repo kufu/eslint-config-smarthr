@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fixtures should match the snapshot 1`] = `
+Object {
+  "Counter.tsx": Object {
+    "errors": Array [],
+    "warnings": Array [
+      "jsx-a11y/click-events-have-key-events",
+      "jsx-a11y/no-static-element-interactions",
+    ],
+  },
+  "sum.ts": Object {
+    "errors": Array [
+      "no-shadow",
+    ],
+    "warnings": Array [],
+  },
+}
+`;
