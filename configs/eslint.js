@@ -45,7 +45,6 @@ module.exports = {
     'wrap-iife': ['error', 'any'],
     'no-async-promise-executor': 'error',
     'no-extra-parens': ['error', 'functions'],
-    'require-atomic-updates': 'error',
     'valid-typeof': [
       'error',
       {
@@ -63,7 +62,6 @@ module.exports = {
         args: 'none',
       },
     ],
-    'generator-star-spacing': ['error', 'after'],
     'no-confusing-arrow': [
       'error',
       {
@@ -80,7 +78,6 @@ module.exports = {
     'yield-star-spacing': ['error', 'after'],
     'array-callback-return': 'warn',
     'block-scoped-var': 'warn',
-    'consistent-return': 'warn',
     curly: ['warn', 'multi-line'],
     'dot-location': ['warn', 'property'],
     'dot-notation': 'warn',
@@ -93,7 +90,6 @@ module.exports = {
     ],
     'guard-for-in': 'warn',
     'no-div-regex': 'warn',
-    'no-else-return': 'warn',
     'no-empty-function': [
       'warn',
       {
@@ -104,7 +100,6 @@ module.exports = {
     'no-loop-func': 'warn',
     'no-multi-spaces': 'warn',
     'no-multi-str': 'warn',
-    'no-param-reassign': 'warn',
     'no-script-url': 'warn',
     'no-unmodified-loop-condition': 'warn',
     'no-useless-call': 'warn',
