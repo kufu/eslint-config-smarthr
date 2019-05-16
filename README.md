@@ -1,5 +1,9 @@
 # eslint-config-smarthr
 
+[![npm version](https://badge.fury.io/js/%40kufu%2Feslint-config-smarthr.svg)](https://badge.fury.io/js/%40kufuf%2Feslint-config-smarthr)
+[![CircleCI](https://circleci.com/gh/kufu/eslint-config-smarthr.svg?style=shield)](https://circleci.com/gh/kufu/eslint-config-smarthr)
+
+
 A sharable ESLint config for SmartHR.
 This is intended to use at a project for React + TypeScript + Prettier.
 
