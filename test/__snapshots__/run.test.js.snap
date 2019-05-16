@@ -4,10 +4,7 @@ exports[`fixtures should match the snapshot 1`] = `
 Object {
   "Counter.tsx": Object {
     "errors": Array [],
-    "warnings": Array [
-      "jsx-a11y/click-events-have-key-events",
-      "jsx-a11y/no-static-element-interactions",
-    ],
+    "warnings": Array [],
   },
   "sum.ts": Object {
     "errors": Array [

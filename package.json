@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "release": "np",
-    "test": "jest"
+    "test": "jest",
+    "test:update-snapshot": "jest --updateSnapshot"
   },
   "repository": {
     "type": "git",
