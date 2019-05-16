@@ -1,6 +1,6 @@
 # eslint-config-smarthr
 
-[![npm version](https://badge.fury.io/js/%40kufu%2Feslint-config-smarthr.svg)](https://badge.fury.io/js/%40kufuf%2Feslint-config-smarthr)
+[![npm version](https://badge.fury.io/js/eslint-config-smarthr.svg)](https://badge.fury.io/js/eslint-config-smarthr)
 [![CircleCI](https://circleci.com/gh/kufu/eslint-config-smarthr.svg?style=shield)](https://circleci.com/gh/kufu/eslint-config-smarthr)
 
 
