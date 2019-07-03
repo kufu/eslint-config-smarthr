@@ -4,7 +4,7 @@
   "description": "A sharable ESLint config for SmartHR",
   "main": "index.js",
   "scripts": {
-    "release": "np",
+    "release": "standard-version",
     "test": "jest",
     "test:update-snapshot": "jest --updateSnapshot"
   },
@@ -28,9 +28,9 @@
     "@types/react": "^16.8.14",
     "eslint": "^6.0.1",
     "jest": "^24.7.1",
-    "np": "^5.0.1",
     "prettier": "^1.17.0",
     "react": "^16.8.6",
+    "standard-version": "^6.0.1",
     "typescript": "^3.4.5"
   },
   "peerDependencies": {
