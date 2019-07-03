@@ -26,11 +26,14 @@ If the lint results are what you expect, you can update the snapshot with the fo
 $ yarn test:update-snapshot
 ```
 
+## Commit
+
+We use [conventional commit messages](https://www.conventionalcommits.org/en/v1.0.0-beta.4/) for `standard-version`.
+
 ## Release
 
 ```sh
-$ npm run release
+$ yarn release
 ```
 
-We use `np` to release npm packages.
-`np` doesn't work well through `yarn run` command, so we have to use `npm-scripts` to run `release` script into `npm-scripts`.
+We use `standard-version` to release npm packages.
