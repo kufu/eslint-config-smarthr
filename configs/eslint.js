@@ -101,8 +101,7 @@ module.exports = {
         ignoreReadBeforeAssign: true,
       },
     ],
-    'prefer-spread': 'warn',
-    'no-console': 'off',
+    'prefer-spread': 'warn'
   },
   overrides: [
     {
