@@ -4,6 +4,7 @@
   "description": "A sharable ESLint config for SmartHR",
   "main": "index.js",
   "scripts": {
+    "release:dryrun": "standard-version --dry-run",
     "release": "standard-version",
     "test": "jest",
     "test:update-snapshot": "jest --updateSnapshot"
