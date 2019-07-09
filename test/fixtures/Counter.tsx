@@ -6,6 +6,7 @@ interface Props {
 
 const Counter: React.FC<Props> = props => {
   const [count, setCount] = useState(props.initialCount)
+  console.log(count)
   return (
     <main>
       <p className='text'>{count}</p>
