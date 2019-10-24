@@ -12,8 +12,15 @@ Object {
       "jsx-a11y/aria-role",
     ],
   },
+  "mod.ts": Object {
+    "errors": Array [],
+    "warnings": Array [],
+  },
   "sum.ts": Object {
     "errors": Array [
+      "no-import-assign",
+      "default-param-last",
+      "prefer-regex-literals",
       "no-shadow",
       "prettier/prettier",
     ],
