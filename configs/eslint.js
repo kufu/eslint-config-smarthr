@@ -22,6 +22,12 @@ module.exports = {
     'no-implicit-globals': 'error',
     'no-implied-eval': 'error',
     'no-import-assign': 'error',
+    'sort-imports': [
+      'error',
+      {
+        ignoreDeclarationSort: true,
+      }
+    ],
     'no-iterator': 'error',
     'no-lone-blocks': 'error',
     'no-new-func': 'error',
