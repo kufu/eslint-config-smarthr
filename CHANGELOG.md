@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v3.0.0...v4.0.0) (2020-01-23)
+
+
+### Features
+
+* Add sort-imports to rules ([3321b8d](https://github.com/kufu/eslint-config-smarthr/commit/3321b8dfd428e07a3c2b1f58a525acd2045f69c8))
+
 ## [3.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v2.0.0...v3.0.0) (2019-10-24)
 
 
