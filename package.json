@@ -26,9 +26,9 @@
     "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
-    "@types/react": "^16.9.25",
-    "eslint": "^6.4.0",
-    "jest": "^25.1.0",
+    "@types/react": "^16.9.27",
+    "eslint": "^6.8.0",
+    "jest": "^25.2.4",
     "prettier": "^2.0.2",
     "react": "^16.13.1",
     "standard-version": "^7.1.0",
@@ -41,12 +41,12 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.24.0",
-    "@typescript-eslint/parser": "^2.24.0",
-    "eslint-config-prettier": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.25.0",
+    "@typescript-eslint/parser": "^2.25.0",
+    "eslint-config-prettier": "^6.10.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^3.0.0"
   }
 }
