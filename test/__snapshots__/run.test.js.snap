@@ -5,6 +5,7 @@ Object {
   "Counter.tsx": Object {
     "errors": Array [
       "prettier/prettier",
+      "prettier/prettier",
       "jsx-quotes",
     ],
     "warnings": Array [
