@@ -1,7 +1,7 @@
-import { mod } from './mod'
+import { str } from './mod'
 
-mod = 'mod'
-console.log(mod)
+str = 'str'
+console.log(str)
 
 function fn(a: any, b = 'b', c: any) {
   // noop

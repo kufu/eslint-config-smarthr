@@ -1,1 +1,1 @@
-export const mod = ''
+export const str = ''
