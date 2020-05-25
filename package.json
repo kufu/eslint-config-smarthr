@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@types/react": "^16.9.36",
-    "eslint": "^7.0.0",
+    "eslint": "^7.1.0",
     "jest": "^26.0.1",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
@@ -35,7 +35,7 @@
     "typescript": "^3.9.5"
   },
   "peerDependencies": {
-    "eslint": "^6.4.0",
+    "eslint": "^7.0.0",
     "prettier": "^1.17.0 || ^2.0.0",
     "react": "^16.8.6",
     "typescript": "^3.4.5"
