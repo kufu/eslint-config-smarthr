@@ -1,19 +1,19 @@
 'use strict'
 
-const CLIEngine = require('eslint').CLIEngine
+const { ESLint } = require('eslint')
 const path = require('path')
 
-const runLintWithFixtures = (configFile, target) => {
-  const cli = new CLIEngine({
-    configFile,
+const runLintWithFixtures = async (configFile, target) => {
+  const eslint = new ESLint({
+    overrideConfigFile: configFile,
     ignore: false,
     useEslintrc: false,
     extensions: ['.js', '.jsx', '.ts', '.tsx'],
   })
-  const lintResult = cli.executeOnFiles([target])
+  const lintResult = await eslint.lintFiles([target])
   // console.log(JSON.stringify(lintResult, null, 2))
 
-  return lintResult.results.reduce((results, { filePath, messages }) => {
+  return lintResult.reduce((results, { filePath, messages }) => {
     return Object.assign(results, {
       [path.basename(filePath)]: messages.reduce(
         (resultPerFile, { severity, ruleId }) => {

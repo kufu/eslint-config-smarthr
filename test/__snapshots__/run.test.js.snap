@@ -19,7 +19,6 @@ Object {
   },
   "sum.ts": Object {
     "errors": Array [
-      "no-import-assign",
       "default-param-last",
       "prefer-regex-literals",
       "no-shadow",
