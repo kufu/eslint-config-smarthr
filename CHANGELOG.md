@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v4.0.0...v5.0.0) (2020-07-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* Support minimum ESLint version is v7.
+* drop ESLint v6 support
+* deps: update typescript-eslint version to v3
+* Enable new rules in @typescript-eslint/recommended
+    - @typescript-eslint/no-extra-non-null-assertion
+    - @typescript-eslint/no-extra-semi
+    - @typescript-eslint/no-non-null-asserted-optional-chain
+    - ⚠️ @typescript-eslint/prefer-as-const
+
+### Features
+
+* Support ESLint v7 ([#190](https://github.com/kufu/eslint-config-smarthr/issues/190)) ([ba8ea8e](https://github.com/kufu/eslint-config-smarthr/commit/ba8ea8e54628bc421edd14dbe69af4f864d58266))
+
 ## [4.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v3.0.0...v4.0.0) (2020-01-23)
 
 
