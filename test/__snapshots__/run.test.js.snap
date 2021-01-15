@@ -21,7 +21,7 @@ Object {
     "errors": Array [
       "default-param-last",
       "prefer-regex-literals",
-      "no-shadow",
+      "@typescript-eslint/no-shadow",
       "prettier/prettier",
     ],
     "warnings": Array [
