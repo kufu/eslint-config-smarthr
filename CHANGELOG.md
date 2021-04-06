@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.2](https://github.com/kufu/eslint-config-smarthr/compare/v5.0.1...v5.0.2) (2021-04-06)
+
+
+### Bug Fixes
+
+* delete unnecessary config ([958f410](https://github.com/kufu/eslint-config-smarthr/commit/958f410435e152aa0b2ad667c2153d5b68d3dd44))
+* fix no-shadow settings ([0c1e0de](https://github.com/kufu/eslint-config-smarthr/commit/0c1e0de34b636a49b5a484d6ddd2a22c32bb9764))
+
 ### [5.0.1](https://github.com/kufu/eslint-config-smarthr/compare/v5.0.0...v5.0.1) (2021-01-13)
 
 ## [5.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v4.0.0...v5.0.0) (2020-07-02)
