@@ -1,5 +1,10 @@
 module.exports = {
-  extends: ['./configs/eslint.js', './configs/typescript.js', './configs/react.js'],
+  extends: [
+    './configs/eslint.js',
+    './configs/typescript.js',
+    './configs/react.js',
+    './configs/prettier.js',
+  ],
   rules: {
     '@typescript-eslint/no-var-requires': 'off',
     // https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-shadow.md
