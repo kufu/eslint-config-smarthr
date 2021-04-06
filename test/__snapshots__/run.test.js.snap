@@ -6,7 +6,6 @@ Object {
     "errors": Array [
       "prettier/prettier",
       "prettier/prettier",
-      "jsx-quotes",
     ],
     "warnings": Array [
       "react/no-children-prop",
