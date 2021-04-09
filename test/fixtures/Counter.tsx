@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 
 interface Props {
   initialCount: number
@@ -7,6 +7,13 @@ interface Props {
 const Counter: React.FC<Props> = props => {
   const [count, setCount] = useState(props.initialCount)
   console.log(count)
+
+  useEffect(() => {
+    ;(() => {
+      console.log('do something')
+    })()
+  }, [])
+
   return (
     <main>
       <p className='text'>{count}</p>

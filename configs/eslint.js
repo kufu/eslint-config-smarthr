@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
+  extends: ['eslint:recommended'],
   plugins: [],
   parserOptions: {
     ecmaVersion: 2018,
@@ -26,7 +26,7 @@ module.exports = {
       'error',
       {
         ignoreDeclarationSort: true,
-      }
+      },
     ],
     'no-iterator': 'error',
     'no-lone-blocks': 'error',
@@ -110,7 +110,7 @@ module.exports = {
         ignoreReadBeforeAssign: true,
       },
     ],
-    'prefer-spread': 'warn'
+    'prefer-spread': 'warn',
   },
   overrides: [
     {
