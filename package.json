@@ -28,8 +28,8 @@
   "devDependencies": {
     "@types/react": "^17.0.32",
     "jest": "^27.3.1",
-    "eslint": "^7.30.0",
-    "prettier": "^2.3.2",
+    "eslint": "^7.32.0",
+    "prettier": "^2.4.1",
     "react": "^17.0.2",
     "standard-version": "^9.1.1",
     "typescript": "^4.4.4"
@@ -46,7 +46,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^3.4.1",
-    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0"
   }
 }
