@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v5.0.3...v6.0.0) (2021-11-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Support ESLint v8 ([c2624a8](https://github.com/kufu/eslint-config-smarthr/commit/c2624a80522cb319d070107c10886ba172f8a63b))
+    * update all dependencies to support ESLint v8
+        * @typescript-eslint/eslint-plugin
+        * @typescript-eslint/parser
+        * eslint-config-prettier
+        * eslint-plugin-jsx-a11y
+        * eslint-plugin-prettier
+        * eslint-plugin-react
+        * eslint-plugin-react-hooks
+
 ### [5.0.2](https://github.com/kufu/eslint-config-smarthr/compare/v5.0.1...v5.0.2) (2021-04-06)
 
 
