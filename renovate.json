@@ -1,5 +1,6 @@
 {
   "extends": [
     "github>kufu/renovate-config"
-  ]
+  ],
+  "enabledManagers": ["npm"]
 }
