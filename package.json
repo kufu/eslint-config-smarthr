@@ -39,7 +39,8 @@
     "eslint": "^7.0.0 || ^8.0.0",
     "prettier": "^1.17.0 || ^2.0.0",
     "react": "^16.8.6 || ^17.0.0",
-    "typescript": "^3.4.5 || ^4.0.0"
+    "typescript": "^3.4.5 || ^4.0.0",
+    "eslint-plugin-smarthr": "https://github.com/AtsushiM/eslint-plugin-smarthr"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.8.0",

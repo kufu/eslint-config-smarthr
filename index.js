@@ -1,15 +1,11 @@
-const rulesDirPlugin = require('eslint-plugin-rulesdir')
-
-rulesDirPlugin.RULES_DIR = './rules'
-
 module.exports = {
   extends: [
     './configs/eslint.js',
     './configs/typescript.js',
     './configs/react.js',
     './configs/prettier.js',
+    'plugin:eslint-plugin-smarthr/recommended',
   ],
-  plugins: ['rulesdir'],
   rules: {
     '@typescript-eslint/no-shadow': ['error'],
     '@typescript-eslint/no-var-requires': 'off',
@@ -17,6 +13,7 @@ module.exports = {
     'no-shadow': 'off',
 
     // original rules
-    'rulesdir/a11y-icon-button-has-name': 'error',
+    'smarthr/a11y-icon-button-has-name': 'error',
+    'smarthr/prohibit_import': 'off',
   },
 }
