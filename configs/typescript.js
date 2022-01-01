@@ -4,8 +4,6 @@ module.exports = {
   extends: ['plugin:@typescript-eslint/recommended'],
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'array-simple' }],
-    'no-useless-constructor': 'off',
-    '@typescript-eslint/unified-signatures': 'warn',
     '@typescript-eslint/ban-ts-comment': 'off',
     '@typescript-eslint/explicit-member-accessibility': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
@@ -19,5 +17,7 @@ module.exports = {
     '@typescript-eslint/no-var-requires': 'off',
     '@typescript-eslint/prefer-interface': 'off',
     '@typescript-eslint/prefer-namespace-keyword': 'off',
+    '@typescript-eslint/unified-signatures': 'warn',
+    'no-useless-constructor': 'off',
   },
 }
