@@ -2204,7 +2204,7 @@ eslint-plugin-rulesdir@^0.2.1:
 
 "eslint-plugin-smarthr@https://github.com/AtsushiM/eslint-plugin-smarthr":
   version "0.0.0"
-  resolved "https://github.com/AtsushiM/eslint-plugin-smarthr#1f76edf8115f1988a8cb4d5e824ff1a6d6c47de7"
+  resolved "https://github.com/AtsushiM/eslint-plugin-smarthr#93e7bd0fc8ba30c9140f4bbf85d6e6c31da61932"
   dependencies:
     fs "^0.0.1-security"
     path "^0.12.7"
