@@ -28,7 +28,6 @@
   "devDependencies": {
     "@types/react": "^17.0.38",
     "eslint": "^8.5.0",
-    "eslint-plugin-rulesdir": "^0.2.1",
     "jest": "^27.4.5",
     "prettier": "^2.5.0",
     "react": "^17.0.2",
@@ -50,8 +49,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
-    "eslint-plugin-smarthr": "https://github.com/AtsushiM/eslint-plugin-smarthr",
-    "json5": "^2.2.0"
+    "eslint-plugin-smarthr": "https://github.com/AtsushiM/eslint-plugin-smarthr"
   },
   "jest": {
     "moduleNameMapper": {

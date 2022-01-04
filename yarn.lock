@@ -2197,16 +2197,12 @@ eslint-plugin-react@^7.28.0:
     semver "^6.3.0"
     string.prototype.matchall "^4.0.6"
 
-eslint-plugin-rulesdir@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-rulesdir/-/eslint-plugin-rulesdir-0.2.1.tgz#e246bb9657e68eb0a30680c60775f40aa829ec0b"
-  integrity sha512-t7rQvEyfE4JZJu6dPl4/uVr6Fr0fxopBhzVbtq3isfOHMKdlIe9xW/5CtIaWZI0E1U+wzAk0lEnZC8laCD5YLA==
-
 "eslint-plugin-smarthr@https://github.com/AtsushiM/eslint-plugin-smarthr":
   version "0.0.0"
-  resolved "https://github.com/AtsushiM/eslint-plugin-smarthr#93e7bd0fc8ba30c9140f4bbf85d6e6c31da61932"
+  resolved "https://github.com/AtsushiM/eslint-plugin-smarthr#526a4153151634c1abf59a9a3dbec00169d9cd76"
   dependencies:
     fs "^0.0.1-security"
+    json5 "^2.2.0"
     path "^0.12.7"
 
 eslint-scope@^5.1.1:
