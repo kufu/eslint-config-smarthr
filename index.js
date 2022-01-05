@@ -15,8 +15,9 @@ module.exports = {
     // original rules
     'smarthr/a11y-icon-button-has-name': 'error',
     'smarthr/absolute-import-path': 'off',
-    'smarthr/prohibit-import': 'off',
+    'smarthr/jsx-start-with-spread-attributes': 'off',
     'smarthr/no-import-other-domain': 'off',
+    'smarthr/prohibit-import': 'off',
     'smarthr/redundant-name': 'off',
   },
 }

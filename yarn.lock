@@ -2199,7 +2199,7 @@ eslint-plugin-react@^7.28.0:
 
 "eslint-plugin-smarthr@https://github.com/AtsushiM/eslint-plugin-smarthr":
   version "0.0.0"
-  resolved "https://github.com/AtsushiM/eslint-plugin-smarthr#526a4153151634c1abf59a9a3dbec00169d9cd76"
+  resolved "https://github.com/AtsushiM/eslint-plugin-smarthr#bcb40bd59ed846581066e8123078d640462256a5"
   dependencies:
     fs "^0.0.1-security"
     json5 "^2.2.0"
