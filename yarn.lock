@@ -2197,9 +2197,9 @@ eslint-plugin-react@^7.28.0:
     semver "^6.3.0"
     string.prototype.matchall "^4.0.6"
 
-"eslint-plugin-smarthr@https://github.com/AtsushiM/eslint-plugin-smarthr":
+"eslint-plugin-smarthr@https://github.com/kufu/eslint-plugin-smarthr":
   version "0.0.0"
-  resolved "https://github.com/AtsushiM/eslint-plugin-smarthr#03647e23befd3d439c9fd71a5f2df14125093bce"
+  resolved "https://github.com/kufu/eslint-plugin-smarthr#7e6a2993ca9f477548984b6bcedadea922e1fbb6"
   dependencies:
     fs "^0.0.1-security"
     json5 "^2.2.0"
