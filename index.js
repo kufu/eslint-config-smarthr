@@ -13,7 +13,7 @@ module.exports = {
     'no-shadow': 'off',
 
     // original rules
-    'smarthr/a11y-icon-button-has-name': 'error',
+    'smarthr/a11y-icon-button-has-name': 'off',
     'smarthr/format-import-path': 'off',
     'smarthr/jsx-start-with-spread-attributes': 'off',
     'smarthr/no-import-other-domain': 'off',
