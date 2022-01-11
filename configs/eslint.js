@@ -62,7 +62,7 @@ module.exports = {
     'no-unmodified-loop-condition': 'warn',
     'no-unused-expressions': [
       'error',
-      { 
+      {
         allowShortCircuit: true,
         allowTernary: true,
       },
