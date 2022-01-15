@@ -2204,7 +2204,7 @@ eslint-plugin-react@^7.28.0:
 
 "eslint-plugin-smarthr@https://github.com/kufu/eslint-plugin-smarthr":
   version "0.0.0"
-  resolved "https://github.com/kufu/eslint-plugin-smarthr#02bd76b5dd5206a151e330142dc0a786dae971ea"
+  resolved "https://github.com/kufu/eslint-plugin-smarthr#c0607969e183787f66070a1a0051475f676cbe03"
   dependencies:
     fs "^0.0.1-security"
     json5 "^2.2.0"
