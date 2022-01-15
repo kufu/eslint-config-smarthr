@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.0.3](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.2...v6.0.3) (2022-01-15)
+
+
+### Bug Fixes
+
+* a11y-icon-button-has-name ([e09c9f2](https://github.com/kufu/eslint-config-smarthr/commit/e09c9f215bb0c76942af5a13af5144426a088a4c))
+
+### [6.0.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.0...v6.0.1) (2021-12-01)
+
 ### [6.0.2](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.1...v6.0.2) (2022-01-14)
 
 ### [6.0.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.0...v6.0.1) (2021-12-01)
