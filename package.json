@@ -28,7 +28,7 @@
   "devDependencies": {
     "@types/react": "^17.0.38",
     "eslint": "^8.7.0",
-    "jest": "^27.4.7",
+    "jest": "^27.5.0",
     "prettier": "^2.5.1",
     "react": "^17.0.2",
     "standard-version": "^9.3.2",
