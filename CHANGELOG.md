@@ -4,11 +4,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [6.0.5](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.1...v6.0.5) (2022-02-14)
 
-
-### Bug Fixes
-
-* a11y-icon-button-has-name ([e09c9f2](https://github.com/kufu/eslint-config-smarthr/commit/e09c9f215bb0c76942af5a13af5144426a088a4c))
-
 ### [6.0.4](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.2...v6.0.4) (2022-01-26)
 
 ### [6.0.3](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.2...v6.0.3) (2022-01-15)
