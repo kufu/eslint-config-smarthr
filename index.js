@@ -19,5 +19,7 @@ module.exports = {
     'smarthr/no-import-other-domain': 'off',
     'smarthr/prohibit-import': 'off',
     'smarthr/redundant-name': 'off',
+    'smarthr/require-import': 'off',
+    'smarthr/require-barrel-import': 'off',
   },
 }
