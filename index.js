@@ -13,8 +13,11 @@ module.exports = {
     'no-shadow': 'off',
 
     // original rules
-    'smarthr/a11y-icon-button-has-name': 'off',
+    'smarthr/a11y-clickable-element-has-text': 'off',
+    'smarthr/a11y-image-has-alt-attribute': 'off',
+    'smarthr/a11y-trigger-has-button': 'off',
     'smarthr/format-import-path': 'off',
+    'smarthr/format-translate-component': 'off',
     'smarthr/jsx-start-with-spread-attributes': 'off',
     'smarthr/no-import-other-domain': 'off',
     'smarthr/prohibit-import': 'off',
