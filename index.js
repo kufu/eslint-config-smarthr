@@ -13,16 +13,17 @@ module.exports = {
     'no-shadow': 'off',
 
     // original rules
-    'smarthr/a11y-clickable-element-has-text': 'off',
-    'smarthr/a11y-image-has-alt-attribute': 'off',
-    'smarthr/a11y-trigger-has-button': 'off',
-    'smarthr/format-import-path': 'off',
-    'smarthr/format-translate-component': 'off',
-    'smarthr/jsx-start-with-spread-attributes': 'off',
-    'smarthr/no-import-other-domain': 'off',
-    'smarthr/prohibit-import': 'off',
-    'smarthr/redundant-name': 'off',
-    'smarthr/require-import': 'off',
-    'smarthr/require-barrel-import': 'off',
+    'smarthr/a11y-clickable-element-has-text': 'error',
+    'smarthr/a11y-image-has-alt-attribute': 'error',
+    'smarthr/a11y-trigger-has-button': 'error',
+    'smarthr/best-practice-for-date': 'error',
+    'smarthr/jsx-start-with-spread-attributes': [
+      'error',
+      {
+        fix: true,
+      },
+    ],
+    'smarthr/prohibit-export-array-type': 'error',
+    'smarthr/require-barrel-import': 'error',
   },
 }
