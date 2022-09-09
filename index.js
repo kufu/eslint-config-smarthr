@@ -17,13 +17,16 @@ module.exports = {
     'smarthr/a11y-image-has-alt-attribute': 'error',
     'smarthr/a11y-trigger-has-button': 'error',
     'smarthr/best-practice-for-date': 'error',
-    'smarthr/jsx-start-with-spread-attributes': [
-      'error',
-      {
-        fix: true,
-      },
-    ],
+    'smarthr/format-import-path': 'off',
+    'smarthr/format-translate-component': 'off',
+    'smarthr/jsx-start-with-spread-attributes': [ 'error', { fix: true } ],
+    'smarthr/no-import-other-domain': 'off',
     'smarthr/prohibit-export-array-type': 'error',
+    'smarthr/prohibit-file-name': 'off',
+    'smarthr/prohibit-import': 'off',
+    'smarthr/redundant-name': 'off',
     'smarthr/require-barrel-import': 'error',
+    'smarthr/require-export': 'off',
+    'smarthr/require-import': 'off',
   },
 }
