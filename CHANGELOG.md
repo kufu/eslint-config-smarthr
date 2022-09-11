@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.1.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.12...v6.1.0) (2022-09-11)
+
+
+### Features
+
+* eslint-plugin-smarthrのおすすめルールをdefault errorにする ([656f4af](https://github.com/kufu/eslint-config-smarthr/commit/656f4af32d8479331e3c3a72d45cd6b41eaa3942))
+
 ### [6.0.12](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.11...v6.0.12) (2022-08-30)
 
 ### [6.0.11](https://github.com/kufu/eslint-config-smarthr/compare/v6.0.10...v6.0.11) (2022-08-26)
