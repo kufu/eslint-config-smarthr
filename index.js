@@ -15,6 +15,7 @@ module.exports = {
     // original rules
     'smarthr/a11y-clickable-element-has-text': 'error',
     'smarthr/a11y-image-has-alt-attribute': 'error',
+    'smarthr/a11y-prohibit-input-placeholder': 'warn',
     'smarthr/a11y-trigger-has-button': 'error',
     'smarthr/best-practice-for-date': 'error',
     'smarthr/format-import-path': 'off',
