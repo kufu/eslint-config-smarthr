@@ -27,6 +27,7 @@ module.exports = {
     'smarthr/prohibit-import': 'off',
     'smarthr/redundant-name': 'off',
     'smarthr/require-barrel-import': 'error',
+    'smarthr/require-declaration': 'off',
     'smarthr/require-export': 'off',
     'smarthr/require-import': 'off',
   },

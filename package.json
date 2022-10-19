@@ -49,7 +49,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.8",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-smarthr": "^0.2.8"
+    "eslint-plugin-smarthr": "^0.2.9"
   },
   "jest": {
     "moduleNameMapper": {
