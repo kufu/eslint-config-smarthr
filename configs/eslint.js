@@ -15,6 +15,7 @@ module.exports = {
   },
   rules: {
     'array-callback-return': 'warn',
+    'arrow-body-style': ['error', 'as-needed'],
     'block-scoped-var': 'warn',
     curly: ['warn', 'multi-line'],
     'default-param-last': 'error',
