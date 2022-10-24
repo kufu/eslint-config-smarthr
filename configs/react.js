@@ -47,6 +47,8 @@ module.exports = {
     'react/display-name': 'off',
     'react/jsx-curly-brace-presence': 'off',
     'react/jsx-filename-extension': ['error', { extensions: ['.tsx', '.jsx'] }],
+    'react/jsx-fragments': ['error', 'syntax'],
+    'react/jsx-no-useless-fragment': 'error',
     'react/jsx-pascal-case': ['warn', { allowAllCaps: true }],
     'react/no-access-state-in-setstate': 'error',
     'react/no-children-prop': 'warn',
