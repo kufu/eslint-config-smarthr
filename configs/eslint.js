@@ -100,6 +100,7 @@ module.exports = {
     'no-var': 'error',
     'no-void': 'error',
     'no-with': 'error',
+    'object-shorthand': ['error', 'properties'],
     'prefer-arrow-callback': 'warn',
     'prefer-const': [
       'warn',
