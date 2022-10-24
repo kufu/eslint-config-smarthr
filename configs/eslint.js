@@ -19,6 +19,7 @@ module.exports = {
     'block-scoped-var': 'warn',
     curly: ['warn', 'multi-line'],
     'default-param-last': 'error',
+    'dot-notation': 'error',
     eqeqeq: [
       'warn',
       'always',
