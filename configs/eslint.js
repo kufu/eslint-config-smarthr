@@ -27,6 +27,7 @@ module.exports = {
         null: 'ignore',
       },
     ],
+    'import/no-useless-path-segments': 'error',
     'import/order': [
       'error',
       {
