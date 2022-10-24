@@ -25,6 +25,23 @@ module.exports = {
         null: 'ignore',
       },
     ],
+    'import/order': [
+      'error',
+      {
+        groups: ['builtin', 'external', 'parent', 'sibling', 'index', 'object', 'type'],
+        pathGroups: [
+          {
+            pattern: '@/**',
+            group: 'parent',
+            position: 'before',
+          },
+        ],
+        alphabetize: {
+          order: 'asc',
+        },
+        'newlines-between': 'always',
+      },
+    ],
     'no-async-promise-executor': 'error',
     'no-caller': 'error',
     'no-catch-shadow': 'error',
@@ -111,23 +128,6 @@ module.exports = {
     'vars-on-top': 'warn',
     'wrap-iife': ['error', 'any'],
     'yield-star-spacing': ['error', 'after'],
-    'import/order': [
-      'error',
-      {
-        groups: ['builtin', 'external', 'parent', 'sibling', 'index', 'object', 'type'],
-        pathGroups: [
-          {
-            pattern: '@/**',
-            group: 'parent',
-            position: 'before',
-          },
-        ],
-        alphabetize: {
-          order: 'asc',
-        },
-        'newlines-between': 'always',
-      },
-    ],
   },
   overrides: [
     {
