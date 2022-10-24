@@ -16,12 +16,12 @@ module.exports = {
   rules: {
     'array-callback-return': 'warn',
     'block-scoped-var': 'warn',
-    'curly': ['warn', 'multi-line'],
+    curly: ['warn', 'multi-line'],
     'default-param-last': 'error',
-    'eqeqeq': [
+    eqeqeq: [
       'warn',
       'always',
-      { 
+      {
         null: 'ignore',
       },
     ],
@@ -93,7 +93,7 @@ module.exports = {
     'prefer-regex-literals': 'error',
     'prefer-rest-params': 'error',
     'prefer-spread': 'warn',
-    'radix': 'error',
+    radix: 'error',
     'sort-imports': [
       'error',
       {
@@ -102,9 +102,9 @@ module.exports = {
     ],
     'symbol-description': 'error',
     'template-curly-spacing': 'error',
-    'valid-typeof': [ 
+    'valid-typeof': [
       'error',
-      { 
+      {
         requireStringLiterals: true,
       },
     ],
