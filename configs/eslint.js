@@ -20,13 +20,7 @@ module.exports = {
     curly: ['warn', 'multi-line'],
     'default-param-last': 'error',
     'dot-notation': 'error',
-    eqeqeq: [
-      'warn',
-      'always',
-      {
-        null: 'ignore',
-      },
-    ],
+    eqeqeq: 'error',
     'import/no-duplicates': 'error',
     'import/no-useless-path-segments': 'error',
     'import/order': [
