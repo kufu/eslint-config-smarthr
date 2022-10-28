@@ -1,6 +1,6 @@
 module.exports = {
   extends: ['eslint:recommended'],
-  plugins: [],
+  plugins: ['import'],
   parserOptions: {
     ecmaVersion: 2018,
     sourceType: 'module',
@@ -15,14 +15,29 @@ module.exports = {
   },
   rules: {
     'array-callback-return': 'warn',
+    'arrow-body-style': ['error', 'as-needed'],
     'block-scoped-var': 'warn',
-    'curly': ['warn', 'multi-line'],
+    curly: ['warn', 'multi-line'],
     'default-param-last': 'error',
-    'eqeqeq': [
-      'warn',
-      'always',
-      { 
-        null: 'ignore',
+    'dot-notation': 'error',
+    eqeqeq: 'error',
+    'import/no-duplicates': 'error',
+    'import/no-useless-path-segments': 'error',
+    'import/order': [
+      'error',
+      {
+        groups: ['builtin', 'external', 'parent', 'sibling', 'index', 'object', 'type'],
+        pathGroups: [
+          {
+            pattern: '@/**',
+            group: 'parent',
+            position: 'before',
+          },
+        ],
+        alphabetize: {
+          order: 'asc',
+        },
+        'newlines-between': 'always',
       },
     ],
     'no-async-promise-executor': 'error',
@@ -81,6 +96,7 @@ module.exports = {
     'no-var': 'error',
     'no-void': 'error',
     'no-with': 'error',
+    'object-shorthand': ['error', 'properties'],
     'prefer-arrow-callback': 'warn',
     'prefer-const': [
       'warn',
@@ -93,7 +109,7 @@ module.exports = {
     'prefer-regex-literals': 'error',
     'prefer-rest-params': 'error',
     'prefer-spread': 'warn',
-    'radix': 'error',
+    radix: 'error',
     'sort-imports': [
       'error',
       {
@@ -102,9 +118,9 @@ module.exports = {
     ],
     'symbol-description': 'error',
     'template-curly-spacing': 'error',
-    'valid-typeof': [ 
+    'valid-typeof': [
       'error',
-      { 
+      {
         requireStringLiterals: true,
       },
     ],
