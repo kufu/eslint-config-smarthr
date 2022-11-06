@@ -26,7 +26,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
-    "@types/react": "^18.0.24",
+    "@types/react": "^18.0.25",
     "eslint": "^8.26.0",
     "jest": "^27.5.1",
     "prettier": "^2.7.1",
