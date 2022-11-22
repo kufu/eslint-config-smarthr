@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.3.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.2.1...v6.3.0) (2022-11-22)
+
+
+### Features
+
+* eqeqeq を warning から error に変更 ([f39454f](https://github.com/kufu/eslint-config-smarthr/commit/f39454f1a39fa74140bd0233981afcde73e5cf6b))
+* import 順を制御するルールを追加 ([798122c](https://github.com/kufu/eslint-config-smarthr/commit/798122c944cd93dbc8aa14f222964ce54866f272))
+* JSX のフラグメントに関するルールを追加 ([bd2433b](https://github.com/kufu/eslint-config-smarthr/commit/bd2433bbf44ae5ff5726388a57905739c5d6c1d3))
+* update eslint-plugin-smarthr@0.2.10 ([af82469](https://github.com/kufu/eslint-config-smarthr/commit/af8246928381d10b095cfbe93a7362894434966d))
+* アロー関数の中身の return のスタイルのルールを追加 ([7ecad31](https://github.com/kufu/eslint-config-smarthr/commit/7ecad31387ff2315ff8653ef6df42e696cea52e0))
+* インポートパスの被りに関するルールを追加 ([e69308f](https://github.com/kufu/eslint-config-smarthr/commit/e69308fb15f5f8a159475ca4f9d09cfff8706998))
+* オブジェクトのアクセスの仕方に関するルールを追加 ([29a814a](https://github.com/kufu/eslint-config-smarthr/commit/29a814a8f0bc94cae630cd81ee2fa577cf8ae557))
+* オブジェクトの宣言のショートハンドに関するルールを追加 ([445e6ff](https://github.com/kufu/eslint-config-smarthr/commit/445e6ff3c90c9fe098adeb296785b28c46a26dc2))
+* 不要なインポートパスに関するルールを追加 ([4570c92](https://github.com/kufu/eslint-config-smarthr/commit/4570c923942efd7105785102f83e09acf8fe593f))
+
 ### [6.2.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.2.0...v6.2.1) (2022-10-19)
 
 ## [6.2.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.1.0...v6.2.0) (2022-10-06)
