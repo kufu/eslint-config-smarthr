@@ -30,5 +30,6 @@ module.exports = {
     'smarthr/require-declaration': 'off',
     'smarthr/require-export': 'off',
     'smarthr/require-import': 'off',
+    'smarthr/trim-props': 'error',
   },
 }
