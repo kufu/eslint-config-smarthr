@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.6.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.4.0...v6.6.0) (2023-01-12)
+
+
+### Features
+
+* smarthr/a11y-radio-has-name-attribute を smarthr/a11y-input-has-name-attribute に切り替える ([4d30ee6](https://github.com/kufu/eslint-config-smarthr/commit/4d30ee61c02b5c18e60ac6a050477c208a534ad6))
+* update eslint-plugin-smarthr ([7345df8](https://github.com/kufu/eslint-config-smarthr/commit/7345df89a30f2647bebee9c84cfc68d966a5d35d))
+
 ## [6.5.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.4.0...v6.5.0) (2022-12-21)
 
 
