@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
-    "eslint": "^8.31.0",
+    "eslint": "^8.32.0",
     "jest": "^27.5.1",
     "prettier": "^2.8.2",
     "react": "^18.2.0",
@@ -45,10 +45,10 @@
     "@typescript-eslint/eslint-plugin": "^5.47.1",
     "@typescript-eslint/parser": "^5.47.1",
     "eslint-config-prettier": "^8.6.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-import": "^2.27.4",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react": "^7.32.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-smarthr": "^0.2.17"
   },
