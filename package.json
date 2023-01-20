@@ -51,10 +51,5 @@
     "eslint-plugin-react": "^7.32.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-smarthr": "^0.2.18"
-  },
-  "jest": {
-    "moduleNameMapper": {
-      "eslint/use-at-your-own-risk": "eslint/lib/unsupported-api.js"
-    }
   }
 }
