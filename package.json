@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-smarthr",
-  "version": "6.6.3",
+  "version": "6.6.4",
   "description": "A sharable ESLint config for SmartHR",
   "main": "index.js",
   "scripts": {
@@ -50,6 +50,6 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.0",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-smarthr": "^0.2.20"
+    "eslint-plugin-smarthr": "^0.2.21"
   }
 }
