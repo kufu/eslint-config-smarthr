@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.7.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.6.4...v6.7.0) (2023-01-27)
+
+
+### Features
+
+* a11y-anchor-has-href-attribute を有効にする ([f322679](https://github.com/kufu/eslint-config-smarthr/commit/f3226792f425e9b3b3ce4c5ff4976bc0d128aa2d))
+
 ### [6.6.4](https://github.com/kufu/eslint-config-smarthr/compare/v6.6.3...v6.6.4) (2023-01-19)
 
 ### [6.6.3](https://github.com/kufu/eslint-config-smarthr/compare/v6.6.2...v6.6.3) (2023-01-18)
