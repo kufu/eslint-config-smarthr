@@ -20,6 +20,7 @@ module.exports = {
     'smarthr/a11y-prohibit-input-placeholder': 'error',
     'smarthr/a11y-trigger-has-button': 'error',
     'smarthr/best-practice-for-date': 'error',
+    'smarthr/best-practice-for-remote-trigger-action-dialog': 'error',
     'smarthr/format-import-path': 'off',
     'smarthr/format-translate-component': 'off',
     'smarthr/jsx-start-with-spread-attributes': [ 'error', { fix: true } ],
