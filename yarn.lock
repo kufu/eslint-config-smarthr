@@ -2220,10 +2220,10 @@ eslint-plugin-react@^7.32.2:
     semver "^6.3.0"
     string.prototype.matchall "^4.0.8"
 
-eslint-plugin-smarthr@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.3.1.tgz#a9dae556f034670af14ba5fbf6351527735197c1"
-  integrity sha512-ecdItJpDj2HC1T0UgBUpfC2oKmj71+xsdu5+KNONij9nTQRZYIk+/q6FE+eOgbdRtXZ17j0nHfVMoQM1eg0pRA==
+eslint-plugin-smarthr@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.3.2.tgz#960db9698847fdcc2dfb1964ae353645a3f83347"
+  integrity sha512-HIlGn1+CUo1lKqsJ1Eha5TL/rUQsLLWp+DzTMNiyhjzOjAMjMu1XbXJRs3szNjRnZi+/+IYTp/7AqlVdwGd/9w==
   dependencies:
     inflected "^2.1.0"
     json5 "^2.2.0"
