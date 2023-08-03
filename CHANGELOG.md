@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.9.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.8.9...v6.9.0) (2023-08-03)
+
+
+### Features
+
+* a11y-heading-in-sectioning-content のデフォルトを errorに変更 ([e28cd8c](https://github.com/kufu/eslint-config-smarthr/commit/e28cd8cecb65c294ba561023ef5c0662636bf5ef))
+
 ### [6.8.9](https://github.com/kufu/eslint-config-smarthr/compare/v6.8.8...v6.8.9) (2023-07-28)
 
 ### [6.8.8](https://github.com/kufu/eslint-config-smarthr/compare/v6.8.7...v6.8.8) (2023-07-18)
