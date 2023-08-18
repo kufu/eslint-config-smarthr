@@ -18,19 +18,19 @@ commands:
       # run tests!
       - run: yarn test
 jobs:
-  node-v14:
-    docker:
-      - image: circleci/node:14
-    steps:
-      - run-test
   node-v16:
     docker:
-      - image: circleci/node:16
+      - image: cimg/node:16.20
+    steps:
+      - run-test
+  node-v18:
+    docker:
+      - image: cimg/node:18.17
     steps:
       - run-test
 
 workflows:
   multiple_builds:
     jobs:
-      - node-v14
       - node-v16
+      - node-v18
