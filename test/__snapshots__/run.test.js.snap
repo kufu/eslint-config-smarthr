@@ -3,10 +3,7 @@
 exports[`fixtures should match the snapshot 1`] = `
 {
   "Counter.tsx": {
-    "errors": [
-      "prettier/prettier",
-      "prettier/prettier",
-    ],
+    "errors": [],
     "warnings": [
       "react/no-children-prop",
       "jsx-a11y/aria-role",
@@ -21,7 +18,6 @@ exports[`fixtures should match the snapshot 1`] = `
       "default-param-last",
       "prefer-regex-literals",
       "@typescript-eslint/no-shadow",
-      "prettier/prettier",
     ],
     "warnings": [
       "no-div-regex",

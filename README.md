@@ -5,12 +5,12 @@
 
 
 A sharable ESLint config for SmartHR.
-This is intended to use at a project for React + TypeScript + Prettier.
+This is intended to use at a project for React + TypeScript.
 
 ## Install
 
 ```sh
-yarn add --dev eslint prettier typescript react // install peerDependencies
+yarn add --dev eslint typescript react // install peerDependencies
 yarn add --dev eslint-config-smarthr
 ```
 
