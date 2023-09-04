@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.12.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.11.0...v6.12.0) (2023-09-04)
+
+
+### Features
+
+* smarthr/best-practice-for-date にautofixを追加 ([b6023f5](https://github.com/kufu/eslint-config-smarthr/commit/b6023f5bf78c8d29e7c77f8abd8eb369b3fa07be))
+
 ## [6.11.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.10.1...v6.11.0) (2023-09-01)
 
 
