@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.13.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.12.1...v6.13.0) (2023-10-12)
+
+
+### Features
+
+* eslint-plugin-smarthrを更新(a11y-image-has-alt-attribute,a11y-heading-in-sectioning-contentに機能追加) ([7e40182](https://github.com/kufu/eslint-config-smarthr/commit/7e401823441af95eff308afc1342ed8067f830db))
+
 ### [6.12.2](https://github.com/kufu/eslint-config-smarthr/compare/v6.12.1...v6.12.2) (2023-09-28)
 
 ### [6.12.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.12.0...v6.12.1) (2023-09-20)
