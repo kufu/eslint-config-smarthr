@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.13.2](https://github.com/kufu/eslint-config-smarthr/compare/v6.13.1...v6.13.2) (2023-11-05)
+
+
+### Bug Fixes
+
+* styled-components/attrsメソッドを利用している場合、継承時の名称チェック対象外になっていたため修正 ([e0acc29](https://github.com/kufu/eslint-config-smarthr/commit/e0acc29507999ea365398b38a10a026bd1184759))
+
 ### [6.13.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.13.0...v6.13.1) (2023-10-17)
 
 ## [6.13.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.12.1...v6.13.0) (2023-10-12)
