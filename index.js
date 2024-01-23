@@ -15,7 +15,12 @@ module.exports = {
     // original rules
     'smarthr/a11y-anchor-has-href-attribute': 'error',
     'smarthr/a11y-clickable-element-has-text': 'error',
+
+    // TODO: errorに変更する
     'smarthr/a11y-delegate-element-has-role-presentation': 'warn',
+    'smarthr/a11y-input-in-form-control': 'warn',
+    'smarthr/a11y-prohibit-useless-sectioning-fragment': 'warn',
+
     'smarthr/a11y-heading-in-sectioning-content': 'error',
     'smarthr/a11y-image-has-alt-attribute': 'error',
     'smarthr/a11y-input-has-name-attribute': 'error',
