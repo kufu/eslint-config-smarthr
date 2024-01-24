@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.16.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.16.0...v6.16.1) (2024-01-24)
+
 ## [6.16.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.15.7...v6.16.0) (2024-01-23)
 
 
