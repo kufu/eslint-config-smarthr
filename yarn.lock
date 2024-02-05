@@ -2473,12 +2473,11 @@ eslint-plugin-react@^7.33.2:
     semver "^6.3.1"
     string.prototype.matchall "^4.0.8"
 
-eslint-plugin-smarthr@^0.3.27:
-  version "0.3.27"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.3.27.tgz#8d826ca4bc36931e41e4bb14aaadc289b2392185"
-  integrity sha512-mXkUTL9/no3WXDNyLV46V7As+oxhKyWSTyLg2HZ/jvDDgRtul8lNTBEFyP56arN5R+BdRbDQrn0nvTVPq/eERQ==
+eslint-plugin-smarthr@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.4.0.tgz#256681a222086c1ea56772410b713df045ce5b1b"
+  integrity sha512-iIDnMxkbthdKbx0EQZC1H++ZPqhH7GM+YDnG2u9VP/xjt1kc7X5mVdVsGbgmD/RaSOgzVQdq3JYKKzqNzkg96g==
   dependencies:
-    inflected "^2.1.0"
     json5 "^2.2.0"
 
 eslint-scope@^7.2.2:
@@ -3084,10 +3083,6 @@ indent-string@^2.1.0:
 indent-string@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/indent-string/-/indent-string-4.0.0.tgz#624f8f4497d619b2d9768531d58f4122854d7251"
-
-inflected@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/inflected/-/inflected-2.1.0.tgz#2816ac17a570bbbc8303ca05bca8bf9b3f959687"
 
 inflight@^1.0.4:
   version "1.0.6"
