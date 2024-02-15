@@ -3,9 +3,10 @@
 exports[`fixtures should match the snapshot 1`] = `
 {
   "Counter.tsx": {
-    "errors": [],
-    "warnings": [
+    "errors": [
       "smarthr/a11y-delegate-element-has-role-presentation",
+    ],
+    "warnings": [
       "react/no-children-prop",
       "jsx-a11y/aria-role",
     ],
