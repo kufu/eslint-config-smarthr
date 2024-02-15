@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.19.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.18.0...v6.19.0) (2024-02-15)
+
+
+### Features
+
+* a11y系でwarnで運用していたルールをerrorにする ([2e5df97](https://github.com/kufu/eslint-config-smarthr/commit/2e5df9796da4659d6957a1dc03a1f6a6563e25eb))
+
 ## [6.18.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.16.1...v6.18.0) (2024-02-05)
 
 
