@@ -15,16 +15,13 @@ module.exports = {
     // original rules
     'smarthr/a11y-anchor-has-href-attribute': 'error',
     'smarthr/a11y-clickable-element-has-text': 'error',
-
-    // TODO: errorに変更する
-    'smarthr/a11y-delegate-element-has-role-presentation': 'warn',
-    'smarthr/a11y-input-in-form-control': 'warn',
-    'smarthr/a11y-prohibit-useless-sectioning-fragment': 'warn',
-
+    'smarthr/a11y-delegate-element-has-role-presentation': 'error',
     'smarthr/a11y-heading-in-sectioning-content': 'error',
     'smarthr/a11y-image-has-alt-attribute': 'error',
     'smarthr/a11y-input-has-name-attribute': 'error',
+    'smarthr/a11y-input-in-form-control': 'error',
     'smarthr/a11y-prohibit-input-placeholder': 'error',
+    'smarthr/a11y-prohibit-useless-sectioning-fragment': 'error',
     'smarthr/a11y-trigger-has-button': 'error',
     'smarthr/best-practice-for-date': 'error',
     'smarthr/best-practice-for-remote-trigger-dialog': 'error',
