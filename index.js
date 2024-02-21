@@ -20,6 +20,7 @@ module.exports = {
     'smarthr/a11y-image-has-alt-attribute': 'error',
     'smarthr/a11y-input-has-name-attribute': 'error',
     'smarthr/a11y-input-in-form-control': 'error',
+    'smarthr/a11y-numbered-text-within-ol': 'warn', // TODO: 時期を見計らってerrorにする
     'smarthr/a11y-prohibit-input-placeholder': 'error',
     'smarthr/a11y-prohibit-useless-sectioning-fragment': 'error',
     'smarthr/a11y-trigger-has-button': 'error',
