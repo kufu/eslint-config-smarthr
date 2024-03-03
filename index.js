@@ -24,6 +24,7 @@ module.exports = {
     'smarthr/a11y-prohibit-input-placeholder': 'error',
     'smarthr/a11y-prohibit-useless-sectioning-fragment': 'error',
     'smarthr/a11y-trigger-has-button': 'error',
+    'smarthr/best-practice-for-button-element': 'warn', // TODO: 時期を見計らってerrorにする
     'smarthr/best-practice-for-date': 'error',
     'smarthr/best-practice-for-remote-trigger-dialog': 'error',
     'smarthr/format-import-path': 'off',
