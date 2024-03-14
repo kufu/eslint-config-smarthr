@@ -35,7 +35,6 @@ module.exports = {
     'smarthr/prohibit-file-name': 'off',
     'smarthr/prohibit-import': 'off',
     'smarthr/prohibit-path-within-template-literal': 'off',
-    'smarthr/redundant-name': 'off',
     'smarthr/require-barrel-import': 'error',
     'smarthr/require-declaration': 'off',
     'smarthr/require-export': 'off',
