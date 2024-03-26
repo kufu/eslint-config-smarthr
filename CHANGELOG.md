@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.24.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.23.0...v6.24.0) (2024-03-26)
+
+
+### Features
+
+* eslint-plugin-smarthrを更新(best-practice-for-layoutsをwarn, a11y-numbered-text-within-ol, best-practice-for-button-elementをerrorにする) ([a24faea](https://github.com/kufu/eslint-config-smarthr/commit/a24faeabf0be1bfc1191458c9d0d6e98d2e8780e))
+
 ## [6.23.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.22.0...v6.23.0) (2024-03-17)
 
 
