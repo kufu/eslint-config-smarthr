@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.26.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.26.0...v6.26.1) (2024-03-29)
+
+
+### Bug Fixes
+
+* smarthr/best-practice-for-layoutsでa?.map(hoge)が正しく判定できないバグを修正 ([0fb7164](https://github.com/kufu/eslint-config-smarthr/commit/0fb7164e1797b471d9e4bbab7a8f845e065321a8))
+
 ## [6.26.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.25.0...v6.26.0) (2024-03-29)
 
 
