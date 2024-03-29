@@ -2018,10 +2018,10 @@ eslint-plugin-react@^7.34.1:
     semver "^6.3.1"
     string.prototype.matchall "^4.0.10"
 
-eslint-plugin-smarthr@^0.5.3:
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.5.3.tgz#d6d47baf158f2a0bb84d8983e9405d22bce53b95"
-  integrity sha512-pjcUR3mEq3ll64HUUm66JkPxujGELuH9JLp+U+5/ng4ZIITp8n0c7YMhXl1IBP04hCjbYi5/JcDBTcad6xIaKA==
+eslint-plugin-smarthr@^0.5.4:
+  version "0.5.4"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.5.4.tgz#b7d9afea2cfe55d76e52988a54b9f342607335b1"
+  integrity sha512-ovnusxU80Hk4TBhoj4YAnoISCaRC29pg2daKgG7s3M1ViGwCacpaw/8KJVfh28uZem2YcGx0ZnLk+HryFFMJxw==
   dependencies:
     json5 "^2.2.0"
 
