@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-smarthr",
-  "version": "6.24.0",
+  "version": "6.25.0",
   "description": "A sharable ESLint config for SmartHR",
   "main": "index.js",
   "scripts": {
