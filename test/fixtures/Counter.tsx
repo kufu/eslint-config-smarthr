@@ -23,6 +23,8 @@ const Counter: React.FC<Props> = props => {
       </div>
       <p children="Text" />
       <div role="unknown" />
+      <p>~</p>
+      <p>〜</p>
     </main>
   )
 }
