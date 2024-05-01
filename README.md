@@ -10,7 +10,7 @@ This is intended to use at a project for React + TypeScript.
 ## Install
 
 ```sh
-yarn add --dev eslint typescript react // install peerDependencies
+yarn add --dev eslint eslint-plugin-smarthr typescript react // install peerDependencies
 yarn add --dev eslint-config-smarthr
 ```
 
