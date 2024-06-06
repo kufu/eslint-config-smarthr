@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.31.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.29.0...v6.31.0) (2024-06-06)
+
+
+### Features
+
+* a11y-prohibit-input-maxlength-attribute,a11y-replace-unreadable-symbol,best-practice-for-layoutsをdefault errorに変更 ([5ad656b](https://github.com/kufu/eslint-config-smarthr/commit/5ad656bfbfa74ccb068042f98b7fbe750ab77a3c))
+* update eslint-plugin-smarthr@0.5.10 ([#814](https://github.com/kufu/eslint-config-smarthr/issues/814)) ([ea6d141](https://github.com/kufu/eslint-config-smarthr/commit/ea6d141bf2e08239e867bad56286ffe4b4a3d5f5))
+
 ### [6.30.2](https://github.com/kufu/eslint-config-smarthr/compare/v6.30.1...v6.30.2) (2024-05-23)
 
 ### [6.30.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.30.0...v6.30.1) (2024-05-13)
