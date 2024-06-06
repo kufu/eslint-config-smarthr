@@ -22,14 +22,14 @@ module.exports = {
     'smarthr/a11y-input-has-name-attribute': 'error',
     'smarthr/a11y-input-in-form-control': 'error',
     'smarthr/a11y-numbered-text-within-ol': 'error',
-    'smarthr/a11y-prohibit-input-maxlength-attribute': 'warn', // TODO: 時期を見計らってerrorにする
+    'smarthr/a11y-prohibit-input-maxlength-attribute': 'error',
     'smarthr/a11y-prohibit-input-placeholder': 'error',
     'smarthr/a11y-prohibit-useless-sectioning-fragment': 'error',
-    'smarthr/a11y-replace-unreadable-symbol': 'warn', // TODO: 時期を見計らってerrorにする
+    'smarthr/a11y-replace-unreadable-symbol': 'error',
     'smarthr/a11y-trigger-has-button': 'error',
     'smarthr/best-practice-for-button-element': 'error',
     'smarthr/best-practice-for-date': 'error',
-    'smarthr/best-practice-for-layouts': 'warn', // TODO: 時期を見計らってerrorにする
+    'smarthr/best-practice-for-layouts': 'error',
     'smarthr/best-practice-for-remote-trigger-dialog': 'error',
     'smarthr/format-import-path': 'off',
     'smarthr/format-translate-component': 'off',
