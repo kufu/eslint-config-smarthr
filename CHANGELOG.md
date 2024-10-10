@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [7.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.33.2...v7.0.0) (2024-10-10)
 
+typescript-eslint が v8 にメジャーバージョンアップされます。
+一部デフォルトルールの変更などが含まれるため、アプリケーションコードの修正が必要になる場合があります。
+
+近いうち、eslint v9 への対応にあわせて、再度メジャーバージョンアップを行う予定なので、段階を踏んでバージョンアップすることをおすすめします。
+
 ### [6.33.2](https://github.com/kufu/eslint-config-smarthr/compare/v6.33.1...v6.33.2) (2024-09-18)
 
 ### [6.33.1](https://github.com/kufu/eslint-config-smarthr/compare/v6.33.0...v6.33.1) (2024-09-10)
