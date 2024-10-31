@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.1.0](https://github.com/kufu/eslint-config-smarthr/compare/v7.0.1...v7.1.0) (2024-10-31)
+
+
+### Features
+
+* smarthr/a11y-form-control-in-form をdefault warnに変更 ([e63bae4](https://github.com/kufu/eslint-config-smarthr/commit/e63bae434ec5adfaae4107b17c1c93789a2fdb0c))
+
 ### [7.0.1](https://github.com/kufu/eslint-config-smarthr/compare/v7.0.0...v7.0.1) (2024-10-25)
 
 ## [7.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v6.33.2...v7.0.0) (2024-10-10)
