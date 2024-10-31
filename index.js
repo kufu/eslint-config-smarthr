@@ -16,7 +16,7 @@ module.exports = {
     'smarthr/a11y-anchor-has-href-attribute': 'error',
     'smarthr/a11y-clickable-element-has-text': 'error',
     'smarthr/a11y-delegate-element-has-role-presentation': 'error',
-    'smarthr/a11y-form-control-in-form': 'off',
+    'smarthr/a11y-form-control-in-form': 'warn', // TODO: 2024/11/1にwarn化。1mくらいを目処に問題なければerrorに変更予定
     'smarthr/a11y-heading-in-sectioning-content': 'error',
     'smarthr/a11y-image-has-alt-attribute': 'error',
     'smarthr/a11y-input-has-name-attribute': 'error',
