@@ -24,6 +24,7 @@ module.exports = {
     'smarthr/a11y-numbered-text-within-ol': 'error',
     'smarthr/a11y-prohibit-input-maxlength-attribute': 'error',
     'smarthr/a11y-prohibit-input-placeholder': 'error',
+    'smarthr/a11y-prohibit-sectioning-content-in-form': 'warn', // TODO: 2024/11/5にwarn化。1mくらいを目処に問題なければerrorに変更予定
     'smarthr/a11y-prohibit-useless-sectioning-fragment': 'error',
     'smarthr/a11y-replace-unreadable-symbol': 'error',
     'smarthr/a11y-trigger-has-button': 'error',
