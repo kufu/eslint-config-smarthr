@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.2.0](https://github.com/kufu/eslint-config-smarthr/compare/v7.1.0...v7.2.0) (2024-11-04)
+
+
+### Features
+
+* smarthr/a11y-prohibit-sectioning-content-in-formをwarnに設定する ([a5d536e](https://github.com/kufu/eslint-config-smarthr/commit/a5d536e7dd932fc519d73d30cc0a2948bc62c183))
+* update eslint-plugin-smarthr@0.5.17 ([450f12f](https://github.com/kufu/eslint-config-smarthr/commit/450f12fb11e56456bccb926ef759f83e193a485b))
+
 ## [7.1.0](https://github.com/kufu/eslint-config-smarthr/compare/v7.0.1...v7.1.0) (2024-10-31)
 
 
