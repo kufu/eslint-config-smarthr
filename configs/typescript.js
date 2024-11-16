@@ -8,7 +8,9 @@ export default [
   ...typeScriptEslint.configs.recommended,
   {
     name: 'eslint-config-smarthr/typescript',
-    plugins: [typeScriptEslint.plugin],
+    plugins: {
+      typescript: typeScriptEslint.plugin
+    },
     languageOptions: {
       parser: typeScriptEslint.parser,
       globals: {

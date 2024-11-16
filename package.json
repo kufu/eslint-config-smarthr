@@ -3,6 +3,7 @@
   "version": "7.2.0",
   "description": "A sharable ESLint config for SmartHR",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "release:dryrun": "standard-version --dry-run",
     "release": "standard-version",

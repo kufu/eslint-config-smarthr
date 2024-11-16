@@ -12,7 +12,11 @@ export default [
   },
   {
     name: 'eslint-config-smarthr/react',
-    plugins: [pluginReact, pluginReactHooks, pluginJsxA11y],
+    plugins: {
+      react: pluginReact,
+      'react-hooks': pluginReactHooks,
+      'jsx-a11y': pluginJsxA11y
+    },
     languageOptions: {
       parserOptions: {
         ecmaFeatures: {

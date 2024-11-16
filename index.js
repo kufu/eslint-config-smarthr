@@ -12,9 +12,11 @@ export default [
   ...prettier,
   ...react,
   ...typescript,
-  smarthr.plugins.recommended,
   {
     name: 'eslint-config-smarthr/index',
+    plugins: {
+      smarthr
+    },
     rules: {
       '@typescript-eslint/no-shadow': ['error'],
       '@typescript-eslint/no-var-requires': 'off',
