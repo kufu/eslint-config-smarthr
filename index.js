@@ -9,10 +9,10 @@ import smarthr from 'eslint-plugin-smarthr'
  */
 export default [
   ...eslint,
-  ...prettier,
-  ...react,
-  ...typescript,
-  smarthr,
+  // ...prettier,
+  // ...react,
+  // ...typescript,
+  // smarthr,
   {
     rules: {
       '@typescript-eslint/no-shadow': ['error'],

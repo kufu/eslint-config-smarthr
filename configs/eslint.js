@@ -1,13 +1,13 @@
 import js from '@eslint/js'
-import importPlugin from 'eslint-plugin-import'
+import * as importPlugin from 'eslint-plugin-import'
 
 /**
  * @type {import('eslint').Linter.Config}
  */
 export default [
-  js.configs.recommended,
+  importPlugin.flatConfigs.recommended,
   {
-    plugins: [importPlugin],
+    rules: js.configs.recommended.rules,
     languageOptions: {
       parserOptions: {
         ecmaVersion: 2018,
