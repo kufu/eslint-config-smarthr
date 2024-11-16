@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "eslint-plugin-smarthr": {
+      "signature": "d31e6fa169f4056971198bce7e5ad448",
+      "file": true,
+      "replaced": "^0.5.17"
+    }
+  }
+}
