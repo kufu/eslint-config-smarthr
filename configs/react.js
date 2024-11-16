@@ -6,8 +6,12 @@ import pluginJsxA11y from 'eslint-plugin-jsx-a11y'
  * @type {import('eslint').Linter.Config}
  */
 export default [
-  pluginReact.configs.recommended,
   {
+    name: 'eslint-plugin-react',
+    ...pluginReact.configs.flat.recommended,
+  },
+  {
+    name: 'eslint-config-smarthr/react',
     plugins: [pluginReact, pluginReactHooks, pluginJsxA11y],
     languageOptions: {
       parserOptions: {

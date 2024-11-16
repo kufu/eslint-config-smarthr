@@ -1,16 +1,16 @@
-import typescriptPlugin from '@typescript-eslint/eslint-plugin'
-import typescriptParser from '@typescript-eslint/parser'
+import typeScriptEslint from 'typescript-eslint'
 import globals from 'globals'
 
 /**
  * @type {import('eslint').Linter.Config}
  */
 export default [
-  typescriptPlugin.configs.recommended,
+  ...typeScriptEslint.configs.recommended,
   {
-    plugins: [typescriptPlugin],
+    name: 'eslint-config-smarthr/typescript',
+    plugins: [typeScriptEslint.plugin],
     languageOptions: {
-      parser: typescriptParser,
+      parser: typeScriptEslint.parser,
       globals: {
         ...globals.browser,
         ...globals.es2015,

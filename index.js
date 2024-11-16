@@ -9,11 +9,12 @@ import smarthr from 'eslint-plugin-smarthr'
  */
 export default [
   ...eslint,
-  // ...prettier,
-  // ...react,
-  // ...typescript,
-  // smarthr,
+  ...prettier,
+  ...react,
+  ...typescript,
+  smarthr.plugins.recommended,
   {
+    name: 'eslint-config-smarthr/index',
     rules: {
       '@typescript-eslint/no-shadow': ['error'],
       '@typescript-eslint/no-var-requires': 'off',

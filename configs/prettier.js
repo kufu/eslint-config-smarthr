@@ -5,6 +5,7 @@ import { rules } from 'eslint-config-prettier'
  */
 export default [
   {
+    name: 'eslint-config-smarthr/prettier',
     rules: {
       ...rules,
     }
