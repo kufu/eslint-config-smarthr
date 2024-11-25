@@ -2,8 +2,13 @@
   "name": "eslint-config-smarthr",
   "version": "7.2.0",
   "description": "A sharable ESLint config for SmartHR",
-  "main": "index.js",
   "type": "module",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "require": "./index.js"
+    }
+  },
   "scripts": {
     "release:dryrun": "standard-version --dry-run",
     "release": "standard-version",
@@ -48,7 +53,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-smarthr": "file:.yalc/eslint-plugin-smarthr",
     "globals": "^15.12.0",
-    "typescript-eslint": "^8.14.0",
+    "typescript-eslint": "^8.15.0",
     "vitest": "^2.1.5"
   }
 }

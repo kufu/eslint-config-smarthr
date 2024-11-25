@@ -5,7 +5,7 @@ import typescript from './configs/typescript.js'
 import smarthr from 'eslint-plugin-smarthr'
 
 /**
- * @type {import('eslint').Linter.Config}
+ * @type {import('eslint').Linter.Config[]}
  */
 export default [
   ...eslint,
