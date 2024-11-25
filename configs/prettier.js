@@ -1,4 +1,4 @@
-import * as Prettier from 'eslint-config-prettier'
+import Prettier from 'eslint-config-prettier'
 
 /**
  * @type {import('eslint').Linter.Config}
