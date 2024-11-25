@@ -2021,10 +2021,10 @@ eslint-plugin-react@^7.37.2:
     string.prototype.matchall "^4.0.11"
     string.prototype.repeat "^1.0.0"
 
-eslint-plugin-smarthr@^0.5.17:
-  version "0.5.17"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.5.17.tgz#0f17039f9177e72e007ec3cc427c5ad997ec2c07"
-  integrity sha512-Q+OApa8uNQ4i/+QW1/L/Rqp/NwRGzpMJgKT0woOrYisDIOBmWTSiMtRnfoHixTbLxdOna9c74IkFK3MZBF8ZkA==
+eslint-plugin-smarthr@^0.5.20:
+  version "0.5.20"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.5.20.tgz#c15cef0b20bed7c23e73df4930c48f9ad3945184"
+  integrity sha512-wQcrZ9pOQwDm7oBkxw+rdBzeDWEQMk5bASM6Y5kwscBqBQBqXq1r6JRjoC0tFfutaqD08DxdiTCJSY7VVePG/w==
   dependencies:
     json5 "^2.2.0"
 
