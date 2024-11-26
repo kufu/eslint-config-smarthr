@@ -27,6 +27,7 @@ module.exports = {
     'smarthr/a11y-prohibit-sectioning-content-in-form': 'warn', // TODO: 2024/11/5にwarn化。1mくらいを目処に問題なければerrorに変更予定
     'smarthr/a11y-prohibit-useless-sectioning-fragment': 'error',
     'smarthr/a11y-replace-unreadable-symbol': 'error',
+    'smarthr/a11y-required-layout-as-attribute': 'warn', // TODO: 2024/11/26にwarn化。1mくらいを目処に問題なければerrorに変更予定
     'smarthr/a11y-trigger-has-button': 'error',
     'smarthr/best-practice-for-button-element': 'error',
     'smarthr/best-practice-for-date': 'error',
