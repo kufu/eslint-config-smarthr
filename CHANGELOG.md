@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.3.0](https://github.com/kufu/eslint-config-smarthr/compare/v7.2.1...v7.3.0) (2024-11-26)
+
+
+### Features
+
+* a11y-requried-layout-as-attribute をデフォルトでwarnに設定 ([4e92ffb](https://github.com/kufu/eslint-config-smarthr/commit/4e92ffb184c61d84b97b1fa0a024b02b14d9cde7))
+
 ### [7.2.1](https://github.com/kufu/eslint-config-smarthr/compare/v7.2.0...v7.2.1) (2024-11-25)
 
 ## [7.2.0](https://github.com/kufu/eslint-config-smarthr/compare/v7.1.0...v7.2.0) (2024-11-04)
