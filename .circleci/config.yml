@@ -18,19 +18,19 @@ commands:
       # run tests!
       - run: yarn test
 jobs:
-  node-v18:
-    docker:
-      - image: cimg/node:18.19
-    steps:
-      - run-test
   node-v20:
     docker:
       - image: cimg/node:20.11
+    steps:
+      - run-test
+  node-v22:
+    docker:
+      - image: cimg/node:22.11.0
     steps:
       - run-test
 
 workflows:
   multiple_builds:
     jobs:
-      - node-v18
       - node-v20
+      - node-v22
