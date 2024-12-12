@@ -16,12 +16,17 @@ yarn add --dev eslint-config-smarthr
 
 ## How to use
 
-Add a following `.eslintrc.js` in your project.
+Add a following `eslint.config.js` in your project.
 
 ```js
-module.exports = {
-    extends: 'smarthr'
-}
+import smarthr from 'eslint-config-smarthr'
+
+export default [
+  ...smarthr,
+  {
+    // your project's configuration
+  },
+]
 ```
 
 Run `eslint`!
