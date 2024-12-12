@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.0.0](https://github.com/kufu/eslint-config-smarthr/compare/v7.3.0...v8.0.0) (2024-12-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* ESLint v9 + FlatConfig (#898)
+
+* ESLint v9 + FlatConfig ([#898](https://github.com/kufu/eslint-config-smarthr/issues/898)) ([80a5104](https://github.com/kufu/eslint-config-smarthr/commit/80a51049c933b385dfaf3d30e6d10403e0d6a7bc))
+
 ## [7.3.0](https://github.com/kufu/eslint-config-smarthr/compare/v7.2.1...v7.3.0) (2024-11-26)
 
 
