@@ -1886,12 +1886,12 @@ eslint-plugin-react@^7.37.2:
     string.prototype.matchall "^4.0.11"
     string.prototype.repeat "^1.0.0"
 
-eslint-plugin-smarthr@^0.5.20:
-  version "0.5.20"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-0.5.20.tgz#c15cef0b20bed7c23e73df4930c48f9ad3945184"
-  integrity sha512-wQcrZ9pOQwDm7oBkxw+rdBzeDWEQMk5bASM6Y5kwscBqBQBqXq1r6JRjoC0tFfutaqD08DxdiTCJSY7VVePG/w==
+eslint-plugin-smarthr@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-smarthr/-/eslint-plugin-smarthr-1.0.0.tgz#c9f81fc2432faa77128e80f771f54f9dd188017b"
+  integrity sha512-iwfCXyjbW2BexdV3bDtuteHmDc1U5QDTUAIuAiwyOoQjfcvBSyhxC9megMCdsmeEOnupA7d/wXjHGUX7kDI8fw==
   dependencies:
-    json5 "^2.2.0"
+    json5 "^2.2.3"
 
 eslint-scope@^7.2.2:
   version "7.2.2"
@@ -3162,7 +3162,7 @@ json5@^1.0.2:
   dependencies:
     minimist "^1.2.0"
 
-json5@^2.2.0, json5@^2.2.3:
+json5@^2.2.3:
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
   integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
