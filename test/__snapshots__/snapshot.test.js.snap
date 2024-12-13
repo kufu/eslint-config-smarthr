@@ -1186,7 +1186,7 @@ exports[`should match ESLint Configuration snapshot 1`] = `
       "visualViewport": false,
       "window": false,
     },
-    "parser": "typescript-eslint/parser@8.15.0",
+    "parser": "typescript-eslint/parser@8.18.0",
     "parserOptions": {
       "ecmaFeatures": {
         "jax": true,
@@ -1206,8 +1206,8 @@ exports[`should match ESLint Configuration snapshot 1`] = `
     "react",
     "react-hooks",
     "jsx-a11y:eslint-plugin-jsx-a11y@6.10.2",
-    "@typescript-eslint:@typescript-eslint/eslint-plugin@8.15.0",
-    "typescript:@typescript-eslint/eslint-plugin@8.15.0",
+    "@typescript-eslint:@typescript-eslint/eslint-plugin@8.18.0",
+    "typescript:@typescript-eslint/eslint-plugin@8.18.0",
     "smarthr:eslint-plugin-smarthr",
   ],
   "processor": undefined,
