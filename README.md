@@ -16,7 +16,7 @@ yarn add --dev eslint-config-smarthr
 
 ## How to use
 
-Add a following `eslint.config.js` in your project.
+Add a following `eslint.config.mjs` in your project.
 
 ```js
 import smarthr from 'eslint-config-smarthr'
