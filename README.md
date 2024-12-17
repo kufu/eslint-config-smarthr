@@ -7,6 +7,13 @@
 A sharable ESLint config for SmartHR.
 This is intended to use at a project for React + TypeScript.
 
+## Disclaimer
+
+This repository has been archived.  
+The project has been moved to [kufu/tamatebako/packages/eslint-config-smarthr](https://github.com/kufu/tamatebako/tree/master/packages/eslint-config-smarthr) and is being actively maintained there.
+
+---
+
 ## Install
 
 ```sh
